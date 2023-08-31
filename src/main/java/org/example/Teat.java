@@ -6,5 +6,6 @@ public class Teat {
         System.out.println("11111");
         System.out.println("2222");
         System.out.println("yangxx");
+        System.out.println("yangxx");
     }
 }
